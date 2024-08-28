@@ -1,0 +1,9 @@
+"Good morning, I’m Caleb Bousman, and I’m excited to join Solventum’s supply chain pod. I’m a dedicated team player with a strong 
+
+foundation in programming and SQL, backed by hands-on experience with Snowflake and Power BI. My recent training in data engineering 
+
+has deepened my expertise, and I’m eager to continue building on that knowledge. I excel in agile environments where self-motivation and 
+
+proactive problem-solving are essential. I’m always keen to learn, ask insightful questions, and embrace feedback as a valuable tool for 
+
+growth. I’m excited to contribute to the team and help drive impactful data solutions."
